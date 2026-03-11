@@ -9,6 +9,12 @@
 6. Rename src.models -> src.model
 7. git add - commit - push
 
+-------------------------Setup MLFlow on Dagshub---------------------------
+8. Go to: https://dagshub.com/dashboard
+9. Create > New Repo > Connect a repo > (Github) Connect > Select your repo > Connect
+10. Copy experiment tracking url and code snippet. (Also try: Go To MLFlow UI)
+11. pip install dagshub & mlflow
+
 
 
 
